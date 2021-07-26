@@ -1,0 +1,237 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header1 {
+  height: 40px;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: flex-start;
+  background-color: darkblue;
+}
+.linkedinicon {
+  width: 30px;
+  margin: 10px;
+  background-color: white;
+}
+
+.search_bar {
+  border: 1px solid white;
+  width: 55%;
+  display: flex;
+
+  align-self: flex-start;
+  margin: 10px;
+  font-style: initial;
+  background-color: lightblue;
+}
+.notification_bar {
+  margin: 10px;
+}
+
+.message_bar {
+  margin: 10px;
+}
+.account_holder_pic {
+  margin: 10px;
+}
+.menu_bar {
+  margin: 10px;
+}
+.Premium_content {
+  height: 70%;
+  margin: 7px;
+  font-weight: bold;
+  word-break: break-all;
+  border: 1px solid yellow;
+  background-color: yellow;
+}
+.header2 {
+  display: flex;
+  justify-content: space-evenly;
+  height: 25px;
+}
+
+.front {
+  display: flex;
+  background-color: white;
+  height: 500px;
+  width: 1518px;
+}
+.front-left {
+  border: 10px solid white;
+  height: 70%;
+  width: 69%;
+  margin: 20px;
+  border-radius: 5px;
+  position: relative;
+}
+.front-right {
+  border: 5px solid white;
+  border-radius: 5px;
+  height: 519px;
+  width: 31%;
+  margin: 20px;
+  position: relative;
+}
+.back_color {
+  height: 26%;
+  background-color: cadetblue;
+}
+.mid_box {
+  height: 35%;
+  width: 10%;
+  position: absolute;
+  top: 40px;
+  left: 30px;
+  background-color: crimson;
+}
+.content {
+  word-break: break-all;
+  white-space: pre-line;
+  position: absolute;
+  top: 143px;
+  left: 30px;
+}
+
+#figma {
+  font-size: 30px;
+  font-weight: bold;
+}
+#design {
+  font-size: 12px;
+}
+#see {
+  color: darkblue;
+}
+.lower_part {
+  position: absolute;
+  top: 310px;
+  left: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.follow {
+  border: 1px solid white;
+  background-color: blue;
+  border-radius: 5px;
+  color: white;
+}
+.arrow {
+  border: 1px solid blue;
+  margin: 11px;
+}
+
+.mid {
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-start;
+
+  margin-top: 300px;
+  margin-left: 35px;
+}
+#overview {
+  color: green;
+}
+.front_down_left {
+  width: 800px;
+}
+.About {
+  margin-left: 22px;
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+.secondline {
+  margin-left: 22px;
+}
+.thirdline {
+  margin-left: 22px;
+}
+.block {
+  margin-top: 15px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 20px;
+  grid-gap: 50px;
+}
+.first_block {
+  border: 1px solid black;
+}
+.Figma1com {
+  color: blue;
+}
+.second_block {
+  border: 1px solid black;
+}
+.USS {
+  color: blue;
+}
+.see {
+  color: blue;
+  margin-left: 125px;
+}
+.pages {
+  margin-left: 45px;
+  font-weight: bold;
+}
+.p1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.p2 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.p3 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.p4 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.p5 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.p6 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.p7 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.p8 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.line1 {
+  margin-left: 35px;
+  margin-top: 65px;
+}
+.line2 {
+  margin-left: 35px;
+  margin-top: 90px;
+}
